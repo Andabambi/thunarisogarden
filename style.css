@@ -5,10 +5,13 @@ h1{text-align: center;
     font-size:40px;
 }
 
-h2,p{text-align: center;
+h2{text-align: center;
     padding-right: 10px;}
 
-   
+   p{text-align:justify;
+    padding-left:50px;
+    margin:40px;
+}
 
 div.gallery:hover {
   border: 1px solid #777;
